@@ -2,13 +2,13 @@
 
 Was benötigst du?
 ------------------
-python 3.x
-pyautogui
+python 3.x ,
+pyautogui ,
 time
 
 commands
 --------
-pip install time
+pip install time ,
 pip install pyautogui
 
 python instalieren auf: https://www.python.org/downloads/
